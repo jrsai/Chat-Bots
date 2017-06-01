@@ -3,7 +3,7 @@
 This example project creates a Facebook Messenger bot, completely
 mirroring the quick start located in [Messenger Platform docs](https://developers.facebook.com/docs/messenger-platform/guides/quick-start).
 
-![](https://cdn.glitch.com/46cf8c2d-d01d-4dae-a70a-26782b0693f2%2Fdemo.gif?1496187516358assets/demo.gif)
+![](https://raw.githubusercontent.com/jrsai/Facebook-Messenger-Bots/master/Blackboard/assets/demo.PNG)
 
 It's basically an echo bot that responds to a user's message by repeating their message back to them. It also sends a generic template when a message with "generic" text is received. This project is not dependent on any external libraries and can easily be extended.
 
